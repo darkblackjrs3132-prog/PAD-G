@@ -72,4 +72,4 @@ PAD-G/
 ```
 
 ## GitHub
-No subas un archivo `.env` con contraseñas reales. `.env` ya está excluido en `.gitignore`.
+
