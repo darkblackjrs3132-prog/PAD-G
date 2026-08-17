@@ -1,0 +1,4 @@
+fecha,hora,delito,categoria,alcaldia,colonia,descripcion,latitud,longitud
+2026-05-01,10:15,Robo a transeúnte,Robo,Coyoacán,Ajusco,Registro ETL de ejemplo,19.3232,-99.1580
+2026-05-02,13:20,Fraude,Patrimonial,Cuauhtémoc,Juárez,Registro ETL de ejemplo,19.4260,-99.1630
+2026-05-03,20:00,Lesiones,Integridad física,Iztapalapa,San Miguel Teotongo,Registro ETL de ejemplo,19.3420,-99.0100
